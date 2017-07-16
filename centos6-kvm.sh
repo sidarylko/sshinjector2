@@ -6,7 +6,7 @@ OS=`uname -p`;
 
 #iplist="ip.txt"
 
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/ibnufachrizal/sshinjector/galihkontlo/ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/galihkontlo/sshinjector/master/ip.txt
 
 #if [ -f iplist ]
 #then
