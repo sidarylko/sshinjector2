@@ -3,7 +3,6 @@
 # initialisasi var
 OS=`uname -p`;
 
-
 #iplist="ip.txt"
 
 wget --quiet -O iplist.txt https://raw.githubusercontent.com/galihkontlo/sshinjector/master/ip.txt
